@@ -7,6 +7,7 @@ cd <директория проекта>
 
 # 2.Запуск окружения
 #Активируйте виртуальное окружение
+```
 python -m venv venv
 #Для Windows:
 venv\Scripts\activate
@@ -15,6 +16,7 @@ source venv/bin/activate
 pip install pytest
 
 python __main__.py
+```
 
 # 3.Структура проекта
 Unixshell.py           # Файл с реализацией команд
